@@ -7,8 +7,11 @@
  HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB
 ```
 
+
+
 2. 정규표현식으로 VID / PID 정보를 추출
 ---
+
 
 
 3. USB VID / PID 출력
@@ -16,3 +19,5 @@
 ```
  http://www.linux-usb.org/usb.ids
 ```
+
+
